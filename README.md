@@ -45,7 +45,6 @@ python experiment.py        # requires CUDA (coded against .cuda())
 No packaging, no tests, no CI — a research scratchpad that is complete enough to
 reproduce. Archived as-is.
 
-**License note.** No LICENSE file exists in the directory; it is the owner's own
-work, so the owner may choose a license (recommend MIT). The report's
+**License.** GNU AGPL-3.0-only; see [LICENSE](LICENSE). The report's
 "reference implementation" (`mymlp.py`, `mymlp2.py`) is the owner's own earlier
 code in the same folder, not third-party code.

@@ -3,3 +3,6 @@ __pycache__/
 .venv/
 node_modules/
 .ipynb_checkpoints/
+.pi/
+/training_results.png
+/per_hidden_accuracy.png
