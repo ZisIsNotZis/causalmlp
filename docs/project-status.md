@@ -1,22 +1,8 @@
 # causalmlp project status
-
+Authored current-status document for the archived prefix-MLP experiment.
 ## Classification
-
-Archive: migrated out of the private `~/my` collection (2026-09-30) so it is
-inspectable instead of rotting. Copied — the original was not modified.
-
-## Status
-
-See `README.md` for what it is and an honest status line (`deprecated (<year> era)
-- kept as an archive` where applicable).
-
-## Evidence
-
-- Source: `~/my/causalmlp` (private archive), copied verbatim except for junk
-  binaries, caches and any file that tripped the credential scanner.
-- `README.md` in this repo documents what it is, how to run it and its limits.
-
+Research archive, not a maintained package or demonstrated efficient-inference product; source, report and saved result are preserved for inspection.
+## Evaluation evidence
+The open metric-comparability issue and its required proof live in [docs/plan/evaluation.md](plan/evaluation.md). The current numerical comparison is not independently verified, and recording the issue does not repair or reproduce the experiment.
 ## Boundaries
-
-Not maintained. Kept for reference only. Any credentials/datasets found during
-migration were dropped, not carried over.
+No revival, training rerun or source change is authorized by the issue record. Retention remains a separate owner decision; original authorship date is not established by migration history.
