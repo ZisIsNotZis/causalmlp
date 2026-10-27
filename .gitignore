@@ -1,8 +1,30 @@
+# Python
 __pycache__/
-*.pyc
+*.py[cod]
+*.egg-info/
 .venv/
-node_modules/
+venv/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
 .ipynb_checkpoints/
-.pi/
+
+# Node
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Generated experiment output
 /training_results.png
 /per_hidden_accuracy.png
+
+# Editor and OS junk
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+.idea/
+.pi/
