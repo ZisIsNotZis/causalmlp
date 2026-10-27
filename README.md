@@ -135,4 +135,4 @@ A single network that can answer early and refine as compute allows: route an ea
 
 ## License
 
-GNU AGPL-3.0-only. See [LICENSE](LICENSE). The reference scripts (`mymlp.py`, `mymlp2.py`) are the owner's own earlier code, not third-party code.
+GNU AGPL-3.0-only. See [LICENSE](LICENSE). Copyright © ZisIsNotZis. The reference scripts (`mymlp.py`, `mymlp2.py`) are the owner's own earlier code, not third-party code.

@@ -135,4 +135,4 @@ python train.py --device cpu --epochs 1
 
 ## 许可证
 
-GNU AGPL-3.0-only，见 [LICENSE](LICENSE)。参考脚本（`mymlp.py`、`mymlp2.py`）是作者自己更早的代码，不是第三方代码。
+GNU AGPL-3.0-only，见 [LICENSE](LICENSE)。版权所有 © ZisIsNotZis。参考脚本（`mymlp.py`、`mymlp2.py`）是作者自己更早的代码，不是第三方代码。
