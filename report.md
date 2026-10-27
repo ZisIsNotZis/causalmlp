@@ -1,5 +1,7 @@
 # Causal Hidden MLP: Comprehensive Research Report
 
+> **Scope of the numbers below.** They come from exploratory runs recorded while the experiments were being done. None of them is bound to a code revision, seed, or dataset snapshot, and they are not the run saved in [results.json](results.json). Treat them as observations worth re-measuring, not as benchmarks. The metric caveat in [README.md](README.md) applies throughout: `exp(-cross-entropy)` and top-1 accuracy are different metrics and are not interchangeable.
+
 ## Executive Summary
 
 This report documents the investigation into training a single MLP that produces predictions at multiple effective hidden sizes with naturally monotonic accuracy. The key discovery is that **cumulative mean (cummean) normalization** is essential, but the causal architecture is fundamentally different from standard MLPs.
